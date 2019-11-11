@@ -12,4 +12,4 @@
 
 #### When publishing modify package.json script from "nodemon server.js" to "node server.js"
 
-#### all versions are update at testing (2019 November)
+#### all versions are up to date at testing (2019 November)
